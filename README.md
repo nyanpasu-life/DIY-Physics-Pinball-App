@@ -11,7 +11,7 @@
 
 java 언어를 사용하여 직접 물리엔진을 구현
 
-TCP 연결에서 직접 정의한 어플리케이션 레이러를 통해 Lock Step 동기화 구현
+TCP 연결에서 직접 정의한 어플리케이션 레이어를 통해 Lock Step 동기화 구현
 
 ![0](https://github.com/nyanpasu-life/DIY-Physics-Pinball-App/assets/118531617/aa75ff5b-dda3-42f4-b861-d4daa4c79de3)
 
